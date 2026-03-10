@@ -87,7 +87,7 @@ The dashboard includes:
 - Top customers by revenue
 
 ### Dashboard Preview
-![Dashboard]<img width="972" height="546" alt="ecommerce_dashboard_preview" src="https://github.com/user-attachments/assets/3b30b95d-29ca-42c5-9ed4-22ea589f33bb" />
+<img width="972" height="546" alt="ecommerce_dashboard_preview" src="https://github.com/user-attachments/assets/3b30b95d-29ca-42c5-9ed4-22ea589f33bb" />
 
 
 ---
